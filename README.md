@@ -7,7 +7,7 @@ This script is a practice test for python scripting.
 Getting Started
 1. Edit the DownloadsManager.py file to change the source directory and destination directories.
 2. Specify the file types to listen and sort to.
-3. Run python script from the terminal (terminal will remain open while script is running.
+3. Run python script (DownloadsManager.py only) from the terminal.
 4. Enjoy
 
 
