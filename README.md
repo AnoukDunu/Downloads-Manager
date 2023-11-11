@@ -23,6 +23,7 @@ Use markdown to format your README. Markdown is easy to read and widely supporte
 
 
 Screenshots/GIFs:
+
 ![image](https://github.com/AnoukDunu/Downloads-Manager/assets/52993706/840e8c2e-20b2-4efa-be3c-f4d7609b11e2)
 In this image, change the 'source_dir' varibale to the folder that you want the script to listen to.
 The other 'destination_dir_###' should be defined to located the folders that files need be move to.
