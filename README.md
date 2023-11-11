@@ -4,18 +4,18 @@ A basic Python script to listen to the Download's directory for changes and auto
 This script is a practice test for python scripting.
 
 
-##Getting Started
+Getting Started
 1. Edit the DownloadsManager.py file to change the source directory and destination directories.
 2. Specify the file types to listen and sort to.
 3. Run python script from the terminal (terminal will remain open while script is running.
 4. Enjoy
 
 
-##Prerequisites
+Prerequisites
 Python3+ needs to be installed on your local machine.
 
 
-##Screenshots/GIFs:
+Screenshots/GIFs:
 
 ![image](https://github.com/AnoukDunu/Downloads-Manager/assets/52993706/840e8c2e-20b2-4efa-be3c-f4d7609b11e2)
 
@@ -28,11 +28,11 @@ In the if-else conditional statement, define the file extensions which you want 
 set the 'dest' variable to the approapirate destination you wish the specific file be moved to.
 
 
-##Links:
+Links:
 https://realpython.com/working-with-files-in-python/
 https://pythonhosted.org/watchdog/
 
-## A method to have the script running at startup has not been decided on yet and instructions will be uploaded here once I've figured that out :D
+A method to have the script running at startup has not been decided on yet and instructions will be uploaded here once I've figured that out :D
 
-##PLEASE NOTE: This is an introductory test for Python automation scripting which I used as a learning opportunity. I also used certain YouTube guides and library documentaion to construct
+PLEASE NOTE: This is an introductory test for Python automation scripting which I used as a learning opportunity. I also used certain YouTube guides and library documentaion to construct
 and write this code.
